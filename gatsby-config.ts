@@ -26,9 +26,9 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Design Portfolio - Frank Dorian`,
+        short_name: `Design Portfolio`,
+        description: `Design Portfolio - Frank Dorian`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
