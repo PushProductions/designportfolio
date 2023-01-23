@@ -30,7 +30,7 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 
 ## ✨ Features
 
-- Theme UI-based threaming
+- Theme UI-based theming
 - react-spring Parallax Effect
 - CSS Animations on Shapes
 
