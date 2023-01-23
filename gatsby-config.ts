@@ -30,7 +30,7 @@ const config: GatsbyConfig = {
         short_name: `Design Portfolio`,
         description: `Design Portfolio - Frank Dorian`,
         start_url: `/`,
-        background_color: `#141821`,
+        background_color: `#230c52`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#f6ad55`,
